@@ -1,0 +1,1 @@
+create table student(sid int,sname varchar(20),sgender varchar(6),sphoneno int,saddress varchar(20));
