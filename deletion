@@ -1,0 +1,5 @@
+delete from student where sid=1;//row
+
+alter table student drop column sgender;//column
+
+drop database school;//database
