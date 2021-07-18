@@ -1,0 +1,5 @@
+insert into school values(1,'sabi',9629201536,'F');
+
+insert into student (sid,sname,sphone,sgender) values(2,'kavin',56782992,'M');
+
+insert into student (sid,sname) values (3,'lithesh');//remaining place it will store null value
