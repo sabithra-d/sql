@@ -1,0 +1,5 @@
+select * from student where sname like 'k%';
+
+select * from student where sname like 'a_____';
+
+select * from student where smarks between 100 and 400;
