@@ -1,0 +1,13 @@
+select min(smarks) from student;
+
+select max(smarks) from student;
+
+select * from student where smarks=(select min(smarks)from student);
+
+ select count(smarks) from student;
+ 
+ select count(*) from student where sgender='M';
+ 
+ select sum(smarks) from student;
+ 
+ select avg(smarks)from student;
