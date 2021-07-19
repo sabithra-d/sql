@@ -1,0 +1,3 @@
+ select distinct sgender from student;
+ 
+ select distinct sgender,sname from student;
