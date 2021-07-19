@@ -1,0 +1,7 @@
+select * from student;
+
+select sname from student;
+
+select sname,sgender from student;
+
+select * from student where sgender='F';
