@@ -1,0 +1,5 @@
+select * from student where sgender = 'F' and sname = 'movika';
+
+select * from student where sgender = 'M' or sname = 'movika';
+
+ select * from student where not sgender='M';
