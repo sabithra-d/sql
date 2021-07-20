@@ -1,0 +1,3 @@
+select * from student limit 3;
+
+    first 3 record
