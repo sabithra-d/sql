@@ -1,0 +1,7 @@
+select sname,sgender from student group by sname;
+
+select sname,sgender from student group by sgender;
+
+select avg(smarks),sgender from student group by sgender;
+
+select avg(smarks),sgender,sid from student group by sid order by sid;
