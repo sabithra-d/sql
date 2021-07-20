@@ -1,0 +1,9 @@
+select ltrim(  'sabi');
+
+select lower('SABI');
+
+select upper('sabi');
+
+select reverse('sabi');
+
+select substring('hello world',7,5);
